@@ -4,7 +4,7 @@ applications:
   path: build/libs/pal-tracker.jar
   host: sidd-pal-tracker-review
   services:
-    - tracker-database
+  - tracker-database
   #random-route: true
   #env:
    # WELCOME_MESSAGE: Hello from Cloud Foundry
